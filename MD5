@@ -1,6 +1,6 @@
-9cb05df469b91a1cd3ec38ddf6d5c414 *DESCRIPTION
+acd8926f53cb607de633dc77c02977b2 *DESCRIPTION
 9390c08367190e8ca651a6efa99501da *NAMESPACE
-3749e44f5e7312333904179477de1403 *NEWS.md
+bd4d61db3a5c63361d92418178f1ca21 *NEWS.md
 e09a18e0d804ec2f166dc708c3d2baa4 *R/datacleaner_ui.R
 7485ca8d9ad153473c9628f456f163da *R/datacleanr-package.R
 8fd85a8b83531b0638db6cad0ed8bd8c *R/datacleanr_app.R
@@ -83,7 +83,7 @@ de570f4bd2659c8f2cd27a85c5f92d4f *man/pipe.Rd
 7f75448b6b2ba6ee05c0c763283530b9 *tests/testthat.R
 14333fbd988a020e3d76777bc7ebe2d5 *tests/testthat/test-check_individual_statement.R
 cb167e6434c2f969bbb997d0d9177f95 *tests/testthat/test-dcr_checks.R
-254af0ee94b69d4a872ed94f395dd746 *tests/testthat/test-filter_scoped.R
+3ef84e4ea767bd75b27e8fea24307521 *tests/testthat/test-filter_scoped.R
 9f40425f6dd6c8e930539b8853f463b9 *tests/testthat/test-make_group_table.R
 bb367cb95581d9b53b54b45698e47e97 *tests/testthat/test.get_factor_cols_idx.R
 632721f42c05b4958e9d237480877d49 *tests/testthat/test_apply_df_setup.R

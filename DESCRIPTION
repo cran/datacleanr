@@ -1,6 +1,6 @@
 Package: datacleanr
 Title: Interactive and Reproducible Data Cleaning
-Version: 1.0.2
+Version: 1.0.3
 Authors@R: 
   c(
     person(given = "Alexander",
@@ -35,11 +35,11 @@ Imports: shiny (>= 1.5.0), htmltools (>= 0.5), summarytools (>= 0.9.6),
         (>= 1.5.3), tools, fs (>= 1.5.0), shinyFiles (>= 0.8.0), bslib
 Depends: R (>= 3.6)
 NeedsCompilation: no
-Packaged: 2021-11-02 23:37:47 UTC; ahurl
+Packaged: 2021-11-18 11:11:28 UTC; ahurl
 Author: Alexander Hurley [cre, aut, cph]
     (<https://orcid.org/0000-0002-9641-2805>),
   Richard Peters [ctb] (<https://orcid.org/0000-0002-7441-1297>),
   Christoforos Pappas [ctb] (<https://orcid.org/0000-0001-5721-557X>)
 Maintainer: Alexander Hurley <agl.hurley@gmail.com>
 Repository: CRAN
-Date/Publication: 2021-11-03 05:20:02 UTC
+Date/Publication: 2021-11-18 11:30:02 UTC
